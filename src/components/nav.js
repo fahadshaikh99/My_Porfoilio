@@ -57,7 +57,7 @@ const StyledNav = styled.nav`
   ${({ theme }) => theme.mixins.flexBetween};
   position: relative;
   width: 100%;
-  color: var(--lightest-slate);
+  color: var(--mywhite);
   font-family: var(--font-mono);
   counter-reset: item 0;
   z-index: 12;
@@ -66,7 +66,7 @@ const StyledNav = styled.nav`
     ${({ theme }) => theme.mixins.flexCenter};
 
     a {
-      color: var(--green);
+      color: 'var(--green)';
       width: 42px;
       height: 42px;
 
@@ -124,6 +124,10 @@ const StyledLinks = styled.div`
     ${({ theme }) => theme.mixins.smallButton};
     margin-left: 15px;
     font-size: var(--fz-xs);
+    color: var(--mywhite);
+    border-color: var(--orange);
+    background-color: var(--orange);
+    
   }
 `;
 

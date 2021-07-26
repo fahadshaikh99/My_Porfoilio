@@ -39,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--green);
+        color: var(--orange);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -145,9 +145,9 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://www.mamagaia.ai/">an A.I based startup</a>,{' '}
-              <a href="https://mobileframers.com/beta/">a huge corporation</a>, and{' '}
-              <a href="http://protagonistpro.com/">an EdTech</a>. My
+              <a style={{ color: 'orange'}} href="https://www.mamagaia.ai/">an A.I based startup</a>,{' '}
+              <a style={{ color: 'orange'}} href="https://mobileframers.com/beta/">a huge corporation</a>, and{' '}
+              <a style={{ color: 'orange'}} href="http://protagonistpro.com/">an EdTech</a>. My
               main focus these days is building accessible, inclusive mobile apps
             </p>
             

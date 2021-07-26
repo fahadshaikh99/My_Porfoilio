@@ -111,9 +111,9 @@ const mixins = {
   `,
 
   bigButton: css`
-    color: var(--green);
+    color: var(--orange);
     background-color: transparent;
-    border: 1px solid var(--green);
+    border: 1px solid var(--orange);
     border-radius: var(--border-radius);
     padding: 1.25rem 1.75rem;
     font-size: var(--fz-sm);
