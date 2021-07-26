@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-03-22'
+title: 'Software Engineer'
+company: 'TEDdict'
+location: 'Islamabad, Pakistan'
+range: 'April 2021 - Present'
+url: ''
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

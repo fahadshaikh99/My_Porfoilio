@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-08-01'
+title: 'Mobile Application Developer'
+company: 'Mama gaia'
+location: 'Denver, US'
+range: 'September 2020 - May 2021'
+url: 'https://www.mamagaia.ai/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern

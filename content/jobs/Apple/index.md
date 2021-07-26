@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2019-12-21'
+title: 'Associate React Native Developer'
+company: 'Hashing Dev'
+location: 'Karachi, Pakistan'
+range: 'November 2019 - Augest 2020'
+url: 'https://hashingdev.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
