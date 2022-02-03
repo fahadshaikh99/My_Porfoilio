@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Mama Gaia'
+cover: './mamagaia.png'
+# github: 'https://github.com/bchiang7/spotify-profile'
+# external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - React Native
+  - Google Map
+  - Stripe
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Mama Gaia empowers you to make cashier-less sales, harness predictive insights through artificial intelligence, and nurture new & repeat customers through automated engagement.
