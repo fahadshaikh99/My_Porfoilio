@@ -1,16 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Mobile Framers'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+# github: 'https://github.com/bchiang7/halcyon-site'
+external: 'https://mobileframers.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React Native
+  - JavaScript
+  - Paypal
+  - Stripe
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A fast and affordable way to take your blank walls from blah to brilliant and bring your phone’s photo album to life.

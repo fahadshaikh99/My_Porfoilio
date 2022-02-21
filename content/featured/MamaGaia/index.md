@@ -3,7 +3,7 @@ date: '2'
 title: 'Mama Gaia'
 cover: './mamagaia.png'
 # github: 'https://github.com/bchiang7/spotify-profile'
-# external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://apps.apple.com/us/app/mama-gaia-smart-fridge/id1549776052?platform=iphone'
 tech:
   - React Native
   - Google Map

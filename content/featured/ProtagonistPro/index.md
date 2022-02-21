@@ -3,7 +3,7 @@ date: '3'
 title: 'Protagonist PRO (Edtech)'
 cover: './protagonistPro.png'
 # github: 'https://github.com/bchiang7/octoprofile'
-# external: 'https://octoprofile.now.sh'
+external: 'https://play.google.com/store/apps/details?id=com.protagonistpro'
 tech:
   - React Native
   - Node.js

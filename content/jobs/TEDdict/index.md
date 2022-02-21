@@ -7,6 +7,8 @@ range: 'April 2021 - Present'
 url: ''
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Leading as a mobile app developer, Building apps with best industry practices.
+- Working with super interactive user interfaces.
+- Implemented features like Code Push, Deep Linking, Google in app purachase, Created marketing funnels for the app and implemented Google anaylatics.
+- Handelling payment gateways like stripe and managing thrid party APIs in app.
+- Managing and fixing production issues. Using automated process for deployment.
