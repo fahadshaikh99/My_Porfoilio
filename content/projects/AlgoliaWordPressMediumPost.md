@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2017-12-01'
+title: 'Augmented Reality in React Native'
+github: 'https://github.com/fahadshaikh99/Augmented-Reality-React-native'
+# external: 'https://tools.applemusic.com/en-us'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - React Native
+  - JavaScript
+  - Viro Media
+company: 'Open Source'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+An augmented reality app (AR app) that integrates digital visual content (3D objects and other types) into the user's real-world environment. This app is an integration of [ViroMedia](https://github.com/viromedia/viro) into React Native.
+

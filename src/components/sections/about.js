@@ -137,20 +137,28 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Fahad and I'm mobile app
-              developer and apps designer with 2 years of working experience. 
-              I'm interested in all kinds of mobile apps project, 
-              but my major focus is on mobile apps, mobile and tablet interfaces. 
-              I also have skills in other fields like prototyping apps, web and apps security. 
+              developer and apps designer with 2 years of working experience.
+              I'm interested in all kinds of mobile apps project,
+              but my major focus is on mobile apps, mobile and tablet interfaces.
+              I also have skills in other fields like prototyping apps, web and apps security.
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
               <a style={{ color: 'orange'}} href="https://www.mamagaia.ai/">an A.I based startup</a>,{' '}
               <a style={{ color: 'orange'}} href="https://mobileframers.com/beta/">a huge corporation</a>, and{' '}
               <a style={{ color: 'orange'}} href="http://protagonistpro.com/">an EdTech</a>. My
               main focus these days is building accessible, inclusive mobile apps
+            </p> */}
+
+            <p>
+              Fast-forward to today, and I've had the privilege of working at{' '}
+              <a style={{ color: 'orange' }} >an A.I based startup</a>,{' '}
+              <a style={{ color: 'orange' }} >a huge corporation</a>, and{' '}
+              <a style={{ color: 'orange' }} >an EdTech</a>. My
+              main focus these days is building accessible, inclusive mobile apps
             </p>
-            
+
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
